@@ -1,2 +1,2 @@
-runtime: node.js
+runtime: nodejs10
 env: flex
